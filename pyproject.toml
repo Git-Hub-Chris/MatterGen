@@ -73,7 +73,7 @@ dependencies = [
 "pymongo",
 "pylint",
 "pytest",
-"pytorch-lightning==2.0.6",
+"pytorch-lightning==2.4.0",
 "rich-click<1.8.0",
 "seaborn",
 "setuptools",
