@@ -63,7 +63,7 @@ dependencies = [
 "omegaconf==2.3.0",
 "p-tqdm>=1.4.0",  # Lower versions cause this error with python 3.10 https://github.com/swansonk14/p_tqdm/issues/43
 "petname>=2.6", # for random generation of experiment name
-"protobuf~=3.20",
+"protobuf~=6.31",
 "pyarrow",
 "pydantic[email]>=2.5.1",  # pydantic already a dep, email extra allows validation of fields containing emails. Keep version up-to-date together with pymatgen, atomate2.
 "pyg-lib", 
