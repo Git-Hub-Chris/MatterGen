@@ -81,7 +81,7 @@ dependencies = [
 "streamlit",
 "sympy>=1.11.1",
 "tensorboard",  # Required for tensorboard
-"torch==2.7.0", 
+"torch==2.7.1", 
 "torchvision==0.17.1+cu118",
 "torchaudio==2.2.1+cu118",
 "torch_cluster",
@@ -90,7 +90,7 @@ dependencies = [
 "torch_sparse",
 "torch_spline_conv",
 "tqdm",
-"urllib3<2.0.0",
+"urllib3<3.0.0",
 "wandb>=0.10.33",
 ]
 
